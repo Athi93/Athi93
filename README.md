@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Athi93
 - 👀 I’m interested in Data Science and AI projects
-- 🌱 I’m currently learning Data Science(PGDDS)
+- 🌱 A post graduate in Data Science, working as  Data Scientist at Ernst and Young
 - 💞️ I’m looking to collaborate on ML and EDA projects
-- 📫 How to reach me Mail me at athi.9307@gmail.com or connect on LinkedIn(https://www.linkedin.com/in/athira-k-933a5758/)
+- 📫 How to reach me? Mail me at athi.9307@gmail.com or connect on LinkedIn(https://www.linkedin.com/in/athira-k-933a5758/)
 
 <!---
 Athi93/Athi93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
